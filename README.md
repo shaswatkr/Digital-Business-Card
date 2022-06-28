@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## ScreenShot
+
+![ScreenShot of the project - Digital Business Card](./src/assets/Digital%20Buiness%20Card.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
