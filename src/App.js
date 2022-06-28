@@ -16,56 +16,56 @@ function App() {
 
                     <div className='row mt-4 mb-4'>
                         <div className='col d-grid gap-2'>
-                            <button type="button" className="btn btn-white btn-lg">
-                                <i class="bi bi-envelope-fill"></i>
+                            <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswatkr96@gmail.example" target="_blank" rel="noreferrer" className="btn btn-white btn-lg">
+                                <i className="bi bi-envelope-fill"></i>
                                 {" "}Email
-                            </button>
+                            </a>
                         </div>
 
                         <div className='col d-grid gap-2'>
-                            <button type="button" className="btn btn-linkedin btn-lg">
-                                <i class="bi bi-linkedin"></i>
+                            <a href="https://www.linkedin.com/in/shaswat-kumar/" target="_blank" rel="noreferrer" className="btn btn-linkedin btn-lg">
+                                <i className="bi bi-linkedin"></i>
                                 {" "}LinkedIn
-                            </button>
+                            </a>
                         </div>
                     </div>
 
                     <section className='text-start'>
                         <h2> About </h2>
                         <p className="lead">
-                            I am a fullstack developer with a passion for JavaScript. I write working on new projects using optimized and latest codes.
+                            I am a fullstack developer with a passion for JavaScript. I love working on new projects using optimized and latest coding standards. I like being active, constantly asking questions and gathering information about the project to either enhance it or to fix something.
                         </p>
                     </section>
 
                     <section className='text-start'>
                         <h2> Interests </h2>
                         <p className="lead">
-                            Food expert. Spanish scholar. Reader. Internet fanatic. Chinese buff. Investor. Travel geek. Cold Coffee fanatic.
+                            Food expert. Learning Spanish. Reader. Chinese buff. Investor. Travel geek. Cold Coffee fanatic.
                         </p>
                     </section>
                 </div>
 
-                <footer class="card-footer text-muted p-4">
+                <footer className="card-footer text-muted p-4">
                     <div className='row'>
                         <div className='col text-center'>
-                            <button type="button" className="btn btn-footer btn-lg">
-                                <i class="bi bi-github"></i>
-                            </button>
+                            <a href="https://github.com/shaswatkr" target="_blank" rel="noreferrer" className="btn btn-footer btn-lg">
+                                <i className="bi bi-github"></i>
+                            </a>
                         </div>
                         <div className='col text-center'>
-                            <button type="button" className="btn btn-footer btn-lg">
-                                <i class="bi bi-instagram"></i>
-                            </button>
+                            <a href="https://www.instagram.com/shaswatkr/" target="_blank" rel="noreferrer" className="btn btn-footer btn-lg">
+                                <i className="bi bi-instagram"></i>
+                            </a>
                         </div>
                         <div className='col text-center'>
-                            <button type="button" className="btn btn-footer btn-lg">
-                                <i class="bi bi-whatsapp"></i>
-                            </button>
+                            <a href="https://wa.me/7992253118/" target="_blank" rel="noreferrer" className="btn btn-footer btn-lg">
+                                <i className="bi bi-whatsapp"></i>
+                            </a>
                         </div>
                         <div className='col text-center'>
-                            <button type="button" className="btn btn-footer btn-lg">
-                                <i class="bi bi-telegram"></i>
-                            </button>
+                            <a href="https://t.me/shaswatkr" target="_blank" rel="noreferrer" className="btn btn-footer btn-lg">
+                                <i className="bi bi-telegram"></i>
+                            </a>
                         </div>
                     </div>
                 </footer>
